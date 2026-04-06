@@ -15,6 +15,5 @@ dist/
 tmp/
 
 # Go binary
-ports
-!cmd/ports
+/ports
 *.test

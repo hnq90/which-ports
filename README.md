@@ -31,6 +31,12 @@ Status colours: green = healthy, yellow = orphaned, red = zombie.
 
 ## Install
 
+### Using Homebrew (macOS / Linux)
+
+```bash
+brew install hnq90/tap/which-ports
+```
+
 ### From source (Go 1.22+)
 
 ```bash
